@@ -22,3 +22,4 @@ const ArticleProvider = ({ children }) => {
   );
 };
 
+export default ArticleProvider;
