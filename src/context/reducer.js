@@ -1,6 +1,6 @@
 export const reducer = (state, action) => {
   switch (action.type) {
-    case "ADD_ARTICLE":
+    case 'ADD_ARTICLE':
       return [
         ...state,
         {
