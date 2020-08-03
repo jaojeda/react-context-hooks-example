@@ -1,5 +1,4 @@
-import React from 'react'
-import './Article.css'
+import React from 'react';
 
 const article = ({ article }) => (
   <div className="article">
